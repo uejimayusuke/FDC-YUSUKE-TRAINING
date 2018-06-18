@@ -1,17 +1,16 @@
 Name: 
-John Mart Belamide
+yusuke uejima
 
 Address: 
-Fake Street 123
+osaka yao
 
 Age: 
 25 yrs old
 
 Birthday: 
-Jan. 1, 2018
-
+1993.04.28
 About Me: 
-Hello, I'm John Mart. I love watching NBA. I like to go the gym.
+Hello, I'm yusuke. I love watching NBA. I like to go the gym.
 
 Education:
 - ACT
@@ -19,12 +18,7 @@ Education:
 - Elementary
 
 Skills:
-- PHP
-- HTML
-- Javascript
-- CSS
-- MySQL
-- Java
+-
 
 Work Experience:
 - (2015-present) FDCI
