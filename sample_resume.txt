@@ -1,0 +1,30 @@
+Name: 
+John Mart Belamide
+
+Address: 
+Fake Street 123
+
+Age: 
+25 yrs old
+
+Birthday: 
+Jan. 1, 2018
+
+About Me: 
+Hello, I'm John Mart. I love watching NBA. I like to go the gym.
+
+Education:
+- ACT
+- Highschool
+- Elementary
+
+Skills:
+- PHP
+- HTML
+- Javascript
+- CSS
+- MySQL
+- Java
+
+Work Experience:
+- (2015-present) FDCI
